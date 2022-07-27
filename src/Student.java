@@ -21,7 +21,7 @@ public class Student {
         System.out.println("我们在上课");
     }
     public void doRadioGymnastics(){
-        System.out.println("我们在广播体操");
+        System.out.println("我们在做广播体操");
     }
 }
 
